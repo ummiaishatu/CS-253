@@ -4,7 +4,7 @@ For this assessment, you are being asked to build a simple web-service-based fer
 
 - Grade : 86.5%
 
-1.1. Task SpecificationYou need to write a REST Web Service application that provides the database functionality (see below); and a client application (either Java or web-page-based) to show that the Web Service is working.
+Task Specification: You need to write a REST Web Service application that provides the database functionality (see below); and a client application (either Java or web-page-based) to show that the Web Service is working.
 
 You need to implement the following REST Web Service methods which implement a simple database containing information about mountains, mountain ranges and countries.
 
